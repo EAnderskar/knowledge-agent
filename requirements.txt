@@ -1,0 +1,18 @@
+# Core
+python-dotenv>=1.0.0
+
+# LLMs & agents
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langgraph>=0.1.0
+openai>=1.0.0
+
+# Utilities
+requests>=2.31.0
+
+# Data & plotting
+pandas>=2.1.0
+matplotlib>=3.8.0
+
+# Dev tools
+jupyter>=1.0.0
